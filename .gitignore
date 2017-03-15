@@ -1,3 +1,6 @@
+# Self generating file.
+instruction table/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
