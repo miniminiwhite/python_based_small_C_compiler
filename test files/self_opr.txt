@@ -1,8 +1,0 @@
-void main() {
-    x = 1;
-    write ++x * (x++);
-    write x;
-    y = 2;
-    write --y * y--;
-    write y
-}
