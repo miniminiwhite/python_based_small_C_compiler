@@ -1,0 +1,20 @@
+const A = 1, B = 2, C = 3;
+lulu, lala = 2;
+
+void print(x) {
+    write x;
+    return
+}
+
+int zero() {
+    lulu = 10086;
+    lala =  1 - 20;
+    return 0
+}
+
+void main() {
+    func print(lulu);
+    func print(lala);
+    func print(func zero());
+    write lulu, lala, A, B, C
+}
